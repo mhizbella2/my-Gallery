@@ -1,0 +1,42 @@
+script.js:14 Score 75:A
+script.js:15 Score 65:B
+script.js:16 Score 55:C
+script.js:17 Score 45:F
+script.js:26 --- Starting Guessing Game ---
+script.js:31 Attempt 1: Guessed 2
+script.js:37 Wrong guess!
+script.js:31 Attempt 2: Guessed 5
+script.js:37 Wrong guess!
+script.js:31 Attempt 3: Guessed 8
+script.js:34 Congratulations! You guessed the correct number.
+script.js:46 ---FizzBuzz---
+script.js:62 1
+script.js:62 2
+script.js:54 Fizz
+script.js:62 4
+script.js:58 Buzz
+script.js:54 Fizz
+script.js:62 7
+script.js:62 8
+script.js:54 Fizz
+script.js:58 Buzz
+script.js:62 11
+script.js:54 Fizz
+script.js:62 13
+script.js:62 14
+script.js:50 FizzBuzz
+script.js:62 16
+script.js:62 17
+script.js:54 Fizz
+script.js:62 19
+script.js:58 Buzz
+script.js:54 Fizz
+script.js:62 22
+script.js:62 23
+script.js:54 Fizz
+script.js:58 Buzz
+script.js:62 26
+script.js:54 Fizz
+script.js:62 28
+script.js:62 29
+script.js:50 FizzBuzz
